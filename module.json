@@ -1,0 +1,7 @@
+{
+	"name": "jqmodules/jquery-ui",
+	"jqmodules/jquery-ui": {
+		"js": ["jquery-ui.js"],
+		"on": ["webmodules/jquery"]
+	}
+}
